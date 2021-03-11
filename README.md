@@ -8,8 +8,11 @@ Other concepts include:
 - Views
 - Partials
 
+## Screenshot
+
 ![screenshot](./app/assets/images/screenshot.png)
-## GETTING STARTED
+
+## Getting Started
 To have a local version of this code running do the following:
 - Clone the repository `git@github.com:kimothokamau/rails_blog.git`
 - Install ruby, rails, node, sqlite3, yarn
