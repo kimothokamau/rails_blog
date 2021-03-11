@@ -32,7 +32,6 @@ Working on it
 - GitHub: [@kimothokamau](https://github.com/kimothokamau)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kimotho-kamau-6ab307185/)
 
-👤 **Alexis Varela**
 
 ##  Contributing
 
